@@ -47,9 +47,6 @@
                 <NetworkLocation>Work</NetworkLocation>
                 <ProtectYourPC>1</ProtectYourPC>
             </OOBE>
-            <WindowsFeatures>
-                <ShowMediaCenter>false</ShowMediaCenter>
-            </WindowsFeatures>
         </component>
     </settings>
 </unattend>
